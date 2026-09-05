@@ -1,4 +1,4 @@
-#Sentiment Analysis# Sentiment Analysis
+## Sentiment Analysis
 
 A machine learning-based NLP project that classifies text sentiment using TF-IDF and a supervised machine learning model.
 
@@ -28,9 +28,10 @@ Sentiment-Analysis/
 ├── README.md
 └── .gitignore
 
+```
 
 ## Workflow
-
+```
 Text Data  
 ↓  
 Preprocessing  
@@ -42,3 +43,4 @@ Model Training
 Evaluation  
 ↓  
 Save Model and Vectorizer
+```
